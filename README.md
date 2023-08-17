@@ -1,10 +1,9 @@
 # Has-Celik-Clone
 ## Used Technologies 
 * HTML
-* SCSS
-* ANGULAR
-* JQUERY
-* TMDB API
+* CSS
+* JAVASCRIPT
+  
 ### Screenshot Of Website 
 ![Ekran resmi1](https://github.com/CavdarEsra/Has-Celik-Clone/blob/main/steel1.png)
 
