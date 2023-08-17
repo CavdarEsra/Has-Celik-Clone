@@ -310,7 +310,7 @@ nav .mega h4 {
 
 @media (max-width: 1040px) {
     .menu-button {
-        background: url(menu.png)no-repeat;
+        background: url(images/menu.png)no-repeat;
         background-size: 30px;
         background-position: center;
         width: 40px;
@@ -323,7 +323,7 @@ nav .mega h4 {
 
     .menu-button.active {
         z-index: 2000;
-        background: url(close.png)no-repeat;
+        background: url(images/close.png)no-repeat;
         background-size: 30px;
         background-position: center;
         transition: 0.3s ease;
@@ -382,7 +382,7 @@ nav .mega h4 {
 
 .company-content {
     width: 50%;
-    background: url(harita.png)no-repeat;
+    background: url(images/harita.png)no-repeat;
     background-size: contain;
     background-position: center;
 }
@@ -451,7 +451,7 @@ nav .mega h4 {
 }
 
 .presentation .big-image {
-    background: url(welding.jpg) no-repeat;
+    background: url(images/welding.jpg) no-repeat;
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -616,7 +616,7 @@ nav .mega h4 {
     position: relative;
     height: calc(100vh - 90px);
     width: 100%;
-    background-image: url(student.jpg);
+    background-image: url(images/student.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
