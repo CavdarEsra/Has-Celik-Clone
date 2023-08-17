@@ -4,7 +4,7 @@
 * CSS
 * JAVASCRIPT
 
-[Video linki](https://disk.yandex.com.tr/i/eUhj0weiY0vlAg)
+[Projenin hareketli kısımlarının ekran videosu](https://disk.yandex.com.tr/i/eUhj0weiY0vlAg)
 
 
 ### Screenshot Of Website 
