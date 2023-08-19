@@ -639,3 +639,61 @@ nav .mega h4 {
     color: var(--red);
     font-weight: 600;
 }
+.sustainability{
+    width: 100%;
+    height: 100vh;
+    background-image: url(images/doga.jpg);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.sustainability .big-title{
+    color: var(--white);
+    font-size: 8rem;
+    text-align: center;
+}
+.sustainability .title1{
+    padding-left: 30%;
+}
+.sustainability .title2{
+    padding-left: 40%;
+}
+.career{
+    width: 100%;
+    height: 100vh;
+}
+.career .title{
+    position: relative;
+}
+.career .title .big-title {
+    margin-top: 7rem;
+    font-size: 7rem;
+    font-weight: 900;
+    opacity: .1;
+    letter-spacing: 1rem;
+}
+.career .title .small-title {
+    position: absolute;
+    bottom: -0.4rem;
+    white-space: nowrap;
+    font-size: 4rem;
+    opacity: .7;
+    font-weight: 400;
+}
+.career-image{
+    margin-top: 5rem;
+    width: 80%;
+    height: 70vh;
+    background-image: url(images/career.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.career-image h3{
+    color: var(--white);
+    margin: 0 10rem 3rem 3rem;
+    font-size: 3rem;
+}
