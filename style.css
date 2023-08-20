@@ -791,10 +791,11 @@ nav .mega h4 {
     background-color: var(--footer-bgcolor);
     padding-top: 5rem;
 }
-.footer .container {
+.footer .footer__top {
     display: flex;
     justify-content: space-between;
     flex-wrap: nowrap;
+    margin-bottom: 5rem;
 }
 .footer__column {
     flex: 1; 
@@ -811,5 +812,26 @@ nav .mega h4 {
     margin-bottom: 1rem;
 }
 
-
-
+.footer__bottom{
+    margin-top: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer__bottom .social-icons{
+    display: flex;
+    gap: 2rem;
+}
+.footer__bottom .social-icons i{
+    font-size: 1.7rem;
+    color: var(--white);
+    background-color: black;
+    padding: .6rem 1rem;
+    border-radius: 50%;
+}
+.footer__bottom .social-icons i:hover{
+    color: black;
+    background-color: var(--icons-bgcolor);
+    scale: 1.1;
+    transition: all .5s;
+}
