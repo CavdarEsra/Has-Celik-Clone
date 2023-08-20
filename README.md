@@ -28,6 +28,27 @@
 
 ------------------------------------------------------------------------------------
 
+![Ekran resmi6](https://github.com/CavdarEsra/Has-Celik-Clone/blob/main/screenshot/steel6.png)
+
+------------------------------------------------------------------------------------
+
+![Ekran resmi7](https://github.com/CavdarEsra/Has-Celik-Clone/blob/main/screenshot/steel7.png)
+
+------------------------------------------------------------------------------------
+
+![Ekran resmi8](https://github.com/CavdarEsra/Has-Celik-Clone/blob/main/screenshot/steel8.png)
+
+------------------------------------------------------------------------------------
+
+![Ekran resmi9](https://github.com/CavdarEsra/Has-Celik-Clone/blob/main/screenshot/steel9.png)
+
+------------------------------------------------------------------------------------
+
+![Ekran resmi10](https://github.com/CavdarEsra/Has-Celik-Clone/blob/main/screenshot/steel10.png)
+
+------------------------------------------------------------------------------------
+
+
 
 
 
